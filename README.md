@@ -1,4 +1,4 @@
-# A semi-decent collection of code
+# A semi-decent collection of semi-decent code
 
 <!--
 **Thetvdh/Thetvdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ## Some information
 
 Nearly all of my code is not tested for use in a production or live environment. It has had very few checks on it to ensure cleanliness of input and as such do not use anything from this profile in prod. I am not responsible. :)
+
+# Links
+
+<a href="https://twitter.com/Thetvdh1">Twitter</a>
