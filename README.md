@@ -21,4 +21,4 @@ Nearly all of my code is not tested for use in a production or live environment.
 
 # Links
 
- <a href="https://twitter.com/Thetvdh1"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>Twitter</a>
+ <a href="https://twitter.com/Thetvdh1"><img height=25 width=25 src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>Twitter</a>
